@@ -9,6 +9,8 @@ public class AllGods {
 		AllGods ag = new AllGods();
 		ag.method1();
 		
+		System.out.println("without god i am nothing");
+		
 	
 
 	}
